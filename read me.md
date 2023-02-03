@@ -3,8 +3,8 @@
 mio testo
 
 ##BIOGRAFIA
-blabla
 
+blabla
 
 ## LAVORI FATTI
 
@@ -12,7 +12,7 @@ blabla
  -lavoro 2
  -lavoro 3 
  
- #CONTATTI
+ ##CONTATTI
  
- mio sito: 
+ [mio sito](http://)
  
