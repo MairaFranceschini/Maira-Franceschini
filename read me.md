@@ -2,7 +2,7 @@
 
 mio testo
 
-##BIOGRAFIA
+## BIOGRAFIA
 
 blabla
 
@@ -12,7 +12,7 @@ blabla
  -lavoro 2
  -lavoro 3 
  
- ##CONTATTI
+ ## CONTATTI
  
  [mio sito](http://)
  
